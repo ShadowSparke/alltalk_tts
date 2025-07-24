@@ -174,3 +174,9 @@ cython_debug/
 
 # Docker build
 docker/deepspeed/build
+gradio_tts_app.py
+transcriptions/*
+start_alltalk.bat
+start_diagnostics.bat
+start_environment.bat
+start_finetune.bat
